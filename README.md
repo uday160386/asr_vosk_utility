@@ -14,7 +14,7 @@ Allows quick reconfiguration of vocabulary for best accuracy.
 ## How to Run?
 
 ```
-    python asr-test.py /Users/udaykumar/Documents/workspace/asr_vosk_utility/61-70968-0000.wav
+    python asr-test.py 61-70968-0000.wav
 ```
 
 ## Result:
