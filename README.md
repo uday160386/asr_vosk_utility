@@ -9,10 +9,13 @@ Provides streaming API for the best user experience (unlike popular speech-recog
 There are bindings for different programming languages, too - java/csharp/javascript etc.
 Allows quick reconfiguration of vocabulary for best accuracy.
 
-![screenshot](./images/output.png)
+
 
 ## How to Run?
 
 ```
     python asr-test.py /Users/udaykumar/Documents/workspace/asr_vosk_utility/61-70968-0000.wav
 ```
+
+## Result:
+![screenshot](./images/output.png)
